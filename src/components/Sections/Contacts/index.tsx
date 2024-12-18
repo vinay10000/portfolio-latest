@@ -1,7 +1,4 @@
 'use client';
-
-import Lottie from 'lottie-react';
-import Cocktail from '@/resources/animations/cocktail-drink.json';
 import Container from '@/components/Cards/Container';
 import styles from './contacts.module.scss';
 
@@ -20,10 +17,7 @@ export default function Contacts() {
                 <a href="mailto: mhvinay5@gmail.com">
                     <button>
                         <div className={styles['animation']}>
-                            <Lottie
-                                animationData={Cocktail}
-                                loop={true}
-                            />
+                            
                         </div>
                         <p>Start a conversation</p>
                     </button>

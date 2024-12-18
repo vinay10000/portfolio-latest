@@ -1,6 +1,4 @@
 import type {Metadata, Viewport} from 'next';
-import {Analytics} from '@vercel/analytics/react';
-import {SpeedInsights} from '@vercel/speed-insights/next';
 import './globals.scss';
 import Navbar from '@/components/Navigations/NavBar';
 import Footer from '@/components/Navigations/Footer';
@@ -46,8 +44,6 @@ export default function RootLayout({
         <Navbar/>
         {children}
         <Footer/>
-        <Analytics/>
-        <SpeedInsights/>
         </body>
         </html>
     );

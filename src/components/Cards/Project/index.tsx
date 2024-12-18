@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import styles from './project.module.scss';
 
 type Project = {
@@ -28,7 +29,7 @@ export default function ProjectCard({project}: { project: Project }) {
     return (
         <a href={project.repository} target={'_blank'} className={styles['project-card']}>
             <div className={styles['img-container']}>
-                <img src={project.thumbnail} alt={'Sample Image'}/>
+                <Image src={project.thumbnail} alt={'Sample Image'} width={100} height={100}/>
             </div>
             <div className={styles['info-container']}>
                 <div className={styles['name']}>
