@@ -1,0 +1,73 @@
+[
+  {
+    "id": "1",
+    "name": "Docs!",
+    "description": "An online live collaborative document editor that enables multiple users to edit, comment, and collaborate on documents in real-time, enhancing teamwork and productivity",
+    "thumbnail": "/project.png",
+    "languages": [
+      "TypeScript",
+      "Node",
+      "SCSS"
+    ],
+    "topics": [
+      "NextJS",
+      "Vercel",
+      "MongoDB",
+      "Stripe",
+      "SendGrid"
+    ],
+    "repository": "https://github.com/vinay10000/docs_project"
+  },
+  {
+    "id": "2",
+    "name": "Chat App",
+    "description": "A real-time chat application for friends and family to stay connected",
+    "languages": [
+      "TypeScript",
+      "Node",
+      "SCSS"
+    ],
+    "topics": [
+      "NextJS",
+      "MongoDB",
+      "Real-time",
+      "Socket.io"
+    ],
+    "thumbnail": "https://job-infos.kyawzinthiha.com/Portfolio/chat-app.webp",
+    "repository": "https://github.com/vinay10000/chat-app"
+  },
+  {
+    "id": "3",
+    "name": "Sticky Notes",
+    "description": "A simple and intuitive sticky notes website that allows users to create, organize, and manage virtual notes for quick reminders and task tracking.",
+    "languages": [
+      "TypeScript",
+      "Node",
+      "Tailwind CSS"
+    ],
+    "topics": [
+      "ReactJS",
+      "NextJS",
+      "Node"
+    ],
+    "thumbnail": "/project2.png",
+    "repository": "https://github.com/vinay10000/sticky-notes"
+  },
+  {
+    "id": "4",
+    "name": "Storage Management System",
+    "description": "A storage management system designed to efficiently organize, track, and manage inventory, ensuring optimal use of storage space and real-time updates",
+    "thumbnail": "/project3.webp",
+    "languages": [
+      "NextJS",
+      "Node",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
+    "topics": [
+      "Appwrite",
+      "Vercel"
+    ],
+    "repository": "https://github.com/vinay10000/storage_management"
+  }
+]

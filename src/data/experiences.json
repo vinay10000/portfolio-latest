@@ -1,0 +1,24 @@
+[
+  {
+    "time": " June 2024 - October 2024",
+    "title": "Intern - ASSISTLY TECHNOLOGIES",
+    "description": "Assisted in building web applications using PHP and Laravel, learning the fundamentals of backend development.",
+    "tags": [
+      "TypeScript",
+      "NextJS",
+      "NestJS",
+      "OpenAI-GPT"
+    ]
+  },
+  {
+    "time": "June 2023 - July 2023",
+    "title": "Intern - HMI ENGINEERING SERVICES",
+    "description": "Worked on various projects using Python, Java and React",
+    "tags": [
+      "Java",
+      "React",
+      "Python",
+      "PostgreSQL"
+    ]
+  }
+]
