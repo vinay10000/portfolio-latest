@@ -14,7 +14,7 @@ export default function Contacts() {
                 </p>
             </div>
             <div className={styles['action']}>
-                <a href="mailto: mhvinay5@gmail.com">
+                <a href="mailto: mvinay.work@gmail.com">
                     <button>
                         <div className={styles['animation']}>
                             
